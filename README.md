@@ -12,13 +12,6 @@ This project allows users to simulate billing, generate totals, Discount, GST  a
 - Disount , GST
 - Simple and clean Tkinter GUI  
 
-
----
-
-## 🖼️ Project Preview
-*(Add screenshots of your Tkinter app running on your desktop)*  
-![Billing Software Preview](./billing-preview.png)
-
 ---
 
 ## 🛠️ Technologies Used
