@@ -1,48 +1,26 @@
-# 🧾 Billing Software
+# 🧾 Billing Software (Python Tkinter)
 
-A simple and interactive **Billing Software UI** built using **HTML, CSS, and JavaScript**.  
-This project allows you to simulate billing, invoice creation, and a clean user interface experience.
+A desktop **Billing Software** GUI application built using **Python Tkinter**.  
+This project allows users to simulate billing, generate totals, Discount, GST  and manage a simple invoice system.
 
 ---
 
-## 🔗 Live Demo
-👉 https://sajjadali-fullstack.github.io/Billing-software/
+## ⚡ Features
+- Add items and quantities  
+- Calculate total bill in real-time  
+- Clear and reset functionality
+- Disount , GST
+- Simple and clean Tkinter GUI  
+
 
 ---
 
 ## 🖼️ Project Preview
-![Billing Software Preview]()
+*(Add screenshots of your Tkinter app running on your desktop)*  
+![Billing Software Preview](./billing-preview.png)
 
 ---
 
 ## 🛠️ Technologies Used
-- 🌐 **HTML** – Page structure  
-- 🎨 **CSS** – Styling and layout  
-- ⚙️ **JavaScript** – Interactive logic  
-
----
-
-## ⚡ How It Works
-- Users can add items and quantities  
-- Total billing amount is calculated dynamically  
-- Buttons and inputs update in real-time  
-- Clean interface for easy simulation of billing  
-
----
-
-## ✨ Features
-- Responsive and clean UI  
-- Real-time billing calculation  
-- Beginner-friendly JavaScript logic  
-- Simulates a basic billing system  
-
----
-
-## 📂 Project Structure
-```text
-Billing-software/
-├── index.html
-├── style.css
-├── script.js
-├── billing-preview.png
-└── README.md
+- 🐍 **Python** – Programming language  
+- 🎨 **Tkinter** – GUI library for building desktop interfaces  
