@@ -9,8 +9,10 @@ This project allows users to simulate billing, generate totals, Discount, GST  a
 - Add items and quantities  
 - Calculate total bill in real-time  
 - Clear and reset functionality
-- Disount , GST
-- Simple and clean Tkinter GUI  
+- Apply **Discount** (%) to the subtotal  
+- Apply **GST** (%) after discount  
+- Real-time calculation of final payable amount  
+- Clean display of subtotal, discount, GST, and final total
 
 ---
 
